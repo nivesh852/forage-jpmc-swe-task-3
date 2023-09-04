@@ -33,6 +33,7 @@
     "not op_mini all"
   ],
   "devDependencies": {
+    "@storybook/preset-typescript": "^3.0.0",
     "awesome-typescript-loader": "^5.2.1",
     "source-map-loader": "^0.2.4",
     "typescript": "^3.2.4"
